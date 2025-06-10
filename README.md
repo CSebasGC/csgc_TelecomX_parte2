@@ -62,7 +62,7 @@ Utilizando Python, Google Colab y bibliotecas de ciencia de datos, se desarroll�
 
 ---
 
-## ✍Autor
+## Autor
 
 **Sebastián Gómez C.**  
 Proyecto educativo para formación en Ciencia de Datos con Google Colab y GitHub. ALURALATAM
