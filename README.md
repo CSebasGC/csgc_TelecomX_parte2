@@ -15,9 +15,13 @@ Utilizando Python, Google Colab y bibliotecas de ciencia de datos, se desarroll�
 
 ## Estructura del Proyecto
 ├── TelecomX_Data.json         # Fuente de datos en formato JSON
+
 ├── TelecomX_LATAM.ipynb       # Notebook de análisis con todo el proceso ETL + EDA
+
 ├── TelecomX_diccionario.md    # Diccionario de variables
+
 ├── README.md                  # Este archivo
+
 
 ---
 
